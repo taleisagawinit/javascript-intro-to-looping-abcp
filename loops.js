@@ -25,7 +25,7 @@ function doWhileLoop(array) {
   return Math.random() >= 0.5
 }
   do {
-    ()
+    (var newArray = )
   }
    while ()
    return array
